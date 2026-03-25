@@ -328,3 +328,18 @@ window.addEventListener("scroll", function () {
     header.classList.remove("scrolled");
   }
 });
+
+/* ===== HEADER SCROLL FIX ===== */
+window.addEventListener("load", function () {
+  const header = document.querySelector(".header, .navbar, .site-header");
+
+  if (!header) return;
+
+  window.addEventListener("scroll", function () {
+    if (window.scrollY > 50) {
+      header.style.opacity = "1";
+    } else {
+      header.style.opacity = "0.95";
+    }
+  });
+});
