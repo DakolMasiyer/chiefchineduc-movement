@@ -1,0 +1,42 @@
+{
+  "site": {
+    "name": "Chief Chukwuonye Movement",
+    "shortName": "CCM 2027",
+    "tagline": "From Neglect to Development — It's Okigwe's Time",
+    "candidate": "Chief Engr Chinedu Chukwuonye",
+    "candidateShort": "Chief Chukwuonye",
+    "office": "Senate — Okigwe Zone",
+    "state": "Imo State, Nigeria",
+    "year": "2027",
+    "description": "Join the Chief Chukwuonye Movement — a grassroots campaign to restore dignity, deliver real development, and ensure Okigwe Zone is finally represented with purpose and results.",
+    "url": "https://ccm2027.netlify.app"
+  },
+  "contact": {
+    "whatsapp": "+2348000000000",
+    "whatsappMessage": "I want to Join the Chief Chinedu Movement.",
+    "email": "info@ccm2027.ng",
+    "formspree": "https://formspree.io/f/mbdprqoz"
+  },
+  "social": {
+    "facebook": "https://facebook.com/ccm2027",
+    "twitter": "https://twitter.com/ccm2027",
+    "instagram": "https://instagram.com/ccm2027",
+    "youtube": "https://youtube.com/@ccm2027"
+  },
+  "colors": {
+    "green": "#1a5c2a",
+    "greenMid": "#2d7a40",
+    "gold": "#c8922a",
+    "cream": "#f7f3ec",
+    "ink": "#0f1a12"
+  },
+  "agenda": [
+    { "icon": "🛣️", "title": "Infrastructure First", "short": "Fix the roads. Reconnect communities." },
+    { "icon": "⚡", "title": "Power & Energy", "short": "Light up every community in Okigwe." },
+    { "icon": "💼", "title": "Jobs & Economy", "short": "Create jobs where people live." },
+    { "icon": "🛡️", "title": "Security", "short": "Safe communities, safe movement, safe lives." },
+    { "icon": "💧", "title": "Water Access", "short": "Clean water is not a luxury." },
+    { "icon": "🏥", "title": "Healthcare", "short": "No one should travel miles to survive." },
+    { "icon": "🎓", "title": "Youth & Education", "short": "Keep our future at home." }
+  ]
+}
