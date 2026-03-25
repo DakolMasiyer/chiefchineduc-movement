@@ -1310,3 +1310,16 @@ img {
     font-size: 14px;
   }
 }
+
+/* ===== FORCE HEADER FIX ===== */
+.header,
+.navbar,
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+
+  background: linear-gradient(90deg, #1a5c2a, #c8922a) !important;
+
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
